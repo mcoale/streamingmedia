@@ -189,7 +189,7 @@ audio {
 footer {
     clear: both;
     text-align: center;
-    font-size: 12;
+    font-size: 12px;
     color:#590242;
     padding: 20px 0 10px 0;
 } 
